@@ -1,5 +1,5 @@
-import { getAllUsers, findUserByEmail } from "./data/userData.js";
-import { connectToDatabase } from "./data/connection.js";
+import { getAllUsers, findUserByEmail } from "./src/data/userData.js";
+import { connectToDatabase } from "./src/data/connection.js";
 
 await connectToDatabase();
 
