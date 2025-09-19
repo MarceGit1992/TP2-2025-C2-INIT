@@ -1,0 +1,25 @@
+{
+  "name": "tp2-2025-c2-init",
+  "version": "1.0.0",
+  "description": "Repo TP2 Inicial.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ORT-PabloFernandez/TP2-2025-C2-INIT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ORT-PabloFernandez/TP2-2025-C2-INIT/issues"
+  },
+  "homepage": "https://github.com/ORT-PabloFernandez/TP2-2025-C2-INIT#readme",
+  "dependencies": {
+    "chalk": "^5.6.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.20.0"
+  }
+}
